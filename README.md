@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohamed Shimy
 #### iOS Software Engineer 👨‍💻
-Passionate and proficient iOS engineer with more than 4 years of experience in developing and deploying innovative applications for the Apple ecosystem. Skilled in Swift, SwiftUI, UIKit, Firebase, and RESTful APIs. Collaborated with cross-functional teams to design, test, and launch iOS apps with over 1 million downloads and positive user feedback. 
+Passionate and proficient iOS engineer with more than 5 years of experience in developing and deploying innovative applications for the Apple ecosystem. Skilled in Swift, SwiftUI, UIKit, Firebase, and RESTful APIs. Collaborated with cross-functional teams to design, test, and launch iOS apps with over 1 million downloads and positive user feedback. 
 
 - 🌱 I’m currently learning Deep Learning
 
@@ -15,14 +15,12 @@ Passionate and proficient iOS engineer with more than 4 years of experience in d
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 
 ##### IDEs
 
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Visual Studio](http://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ##### Social
 
